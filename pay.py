@@ -18,7 +18,7 @@ client = TelegramClient('session_name', api_id, api_hash)
 channel_link = "https://t.me/+GUUGE6jYNKZiZDll"  # Replace with your actual channel link
 
 # Path to your QR code image
-qr_code_path = 'payment.png'  # Replace with the path to your QR code image
+qr_code_path = 'qr.jpg'  # Replace with the path to your QR code image
 
 # Cooldown period in seconds
 cooldown_period = 600
